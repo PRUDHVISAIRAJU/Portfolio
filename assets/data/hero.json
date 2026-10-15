@@ -1,8 +1,9 @@
 {
-  "badge": "WELCOME TO MY PORTFOLIO",
+  "badge": "Safalta Setu's PM intern",
   "roles": [
-    "Your role or profession",
-    "Your area of expertise"
+    "Cybersecurity Enthusiast & VAPT Specialist",
+    "Aspiring Security Researcher & Threat Analyst",
+    "Ethical Hacker & Network Security Practitioner"
   ],
-  "bio": "Share who you are, what you do, and the value you bring. Open the editor to replace this introduction with your own story."
+  "bio": "I am an aspiring cybersecurity professional currently pursuing my B.Tech in Computer Science and Engineering. Equipped with industry certifications from Google and Palo Alto Networks, I specialize in vulnerability management, network security, and ethical hacking. I have practical experience developing custom security tools—such as honeypots and packet sniffers—and conducting Vulnerability Assessment and Penetration Testing (VAPT). I am dedicated to safeguarding organizational data and continuously growing my expertise in threat mitigation."
 }
