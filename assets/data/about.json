@@ -1,11 +1,11 @@
 {
   "paragraphs": [
-    "Write a short introduction about yourself, your background, and what motivates you.",
-    "Describe your interests, strengths, and the kind of work you would like to do."
+    "I am a dedicated cybersecurity enthusiast currently pursuing my B.Tech in Computer Science and Engineering at St. Mary's Group of Institutions. My journey into technology is driven by a deep curiosity about how systems communicate and, more importantly, how they can be protected against modern threats. This passion has motivated me to earn foundational certifications from industry leaders like Google, Palo Alto Networks, and Cisco. What truly excites me about the cybersecurity field is the constantly evolving nature of digital threats and the analytical challenge of staying one step ahead to safeguard sensitive information.",
+    "My core interests lie in Vulnerability Assessment and Penetration Testing (VAPT), ethical hacking, and network security. My greatest strength is hands-on application—I actively bridge theory and practice by developing custom security solutions, such as honeypots, packet sniffers, and end-to-end encrypted file-sharing tools using Python and Kali Linux. I am eager to take on dynamic internships and collaborative roles where I can leverage my problem-solving skills, conduct thorough threat analyses, and help organizations build resilient, secure digital environments."
   ],
   "quickFacts": {
-    "degree": "Your qualification",
-    "location": "Your city or region",
-    "interests": "Your interests"
+    "degree": "B.Tech CSE (2023–2027)",
+    "location": "Hyderabad telangana india ",
+    "interests": "Cybersecurity & Network Security, Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, Security Tool, Development (e.g., building honeypots, packet sniffers, and antivirus simulations), Cryptography & Secure File Sharing, Cloud Security"
   }
 }
