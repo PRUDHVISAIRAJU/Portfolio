@@ -1,9 +1,9 @@
 {
   "identity": {
-    "firstName": "Your",
-    "lastName": "Name",
-    "initials": "YN.",
-    "title": "Your Name — Portfolio",
+    "firstName": "Poranki ",
+    "lastName": "Prudhvi sai raju ",
+    "initials": "PSR.",
+    "title": "Prudhvi — Portfolio",
     "description": "Explore my work, skills, and experience.",
     "photoAlt": "Profile photo placeholder",
     "copyrightName": "",
@@ -11,10 +11,10 @@
     "footerText": "All rights reserved."
   },
   "contact": {
-    "email": "",
-    "phone": "",
+    "email": "prudhvisairaju@gmail.com",
+    "phone": "7287033338",
     "linkedin": "",
-    "github": "",
+    "github": "https://github.com/PRUDHVISAIRAJU",
     "introduction": "Introduce yourself and the opportunities you are interested in.",
     "invitation": "Add your contact details in the editor so visitors can get in touch."
   },
@@ -22,14 +22,14 @@
     "about": "A little about me",
     "education": "Education",
     "skills": "Skills & Tools",
-    "experience": "Selected Work",
+    "experience": "Work Experience",
     "certifications": "Certifications & Training",
     "contact": "Let’s work together"
   },
   "emailjs": {
-    "enabled": false,
-    "publicKey": "",
-    "serviceId": "",
-    "templateId": ""
+    "enabled": true,
+    "publicKey": "X7AlbX6cThW8Uz4Vu",
+    "serviceId": "service_xuht439",
+    "templateId": "template_l4mwr7m"
   }
 }
