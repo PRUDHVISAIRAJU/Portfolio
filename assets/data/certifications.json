@@ -1,8 +1,113 @@
 [
   {
     "id": "certificate-example",
-    "title": "Your certificate or course",
-    "issuer": "Issuing organization",
+    "title": "Introduction to cybersecurity",
+    "issuer": "cisco networking academy ",
+    "certId": "",
+    "link": "https://www.credly.com/badges/aa860274-6ae1-4848-b6cb-16c33ce85408"
+  },
+  {
+    "id": "cert-1792065410527",
+    "title": "Foundations of cybersecurity",
+    "issuer": "Google ",
+    "certId": "",
+    "link": "https://coursera.org/verify/EANAP36ADOKB"
+  },
+  {
+    "id": "cert-1792065732758",
+    "title": "Play It Safe: Manage Security Risks",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/GSX3BM7BV9QU"
+  },
+  {
+    "id": "cert-1792065848864",
+    "title": "Connect and Protect: Networks and Network Security",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/AN474U4YR33U"
+  },
+  {
+    "id": "cert-1792065910757",
+    "title": "Tools of the Trade: Linux and SQL",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/P454SX4Y2O7B"
+  },
+  {
+    "id": "cert-1792066020916",
+    "title": "Assets, Threats, and Vulnerabilities",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/8M33ONCOS6U1"
+  },
+  {
+    "id": "cert-1792066092513",
+    "title": "Sound the Alarm: Detection and Response",
+    "issuer": "Google ",
+    "certId": "",
+    "link": "https://coursera.org/verify/7C2P75UMQQOY"
+  },
+  {
+    "id": "cert-1792066142221",
+    "title": "Automate Cybersecurity Tasks with Python",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/I9DMVP5KOV0A"
+  },
+  {
+    "id": "cert-1792066206422",
+    "title": "Put It to Work: Prepare for Cybersecurity Jobs",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/W83G6VFE4E6P"
+  },
+  {
+    "id": "cert-1792066271282",
+    "title": "Accelerate Your Job Search with AI",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://coursera.org/verify/SQXHATFFB14K"
+  },
+  {
+    "id": "cert-1792066886697",
+    "title": "Google cybersecurity Professional ",
+    "issuer": "Google",
+    "certId": "",
+    "link": "https://www.coursera.org/account/accomplishments/professional-cert/OXJ0QH99DM76"
+  },
+  {
+    "id": "cert-1792067274257",
+    "title": "Cybersecurity Fundamentals ",
+    "issuer": "PaloAlto networks",
+    "certId": "C545367",
+    "link": ""
+  },
+  {
+    "id": "cert-1792068579255",
+    "title": "Cloud security fundamentals ",
+    "issuer": "PaloAlto networks",
+    "certId": "C545420",
+    "link": ""
+  },
+  {
+    "id": "cert-1792068639362",
+    "title": "Security operations fundamentals ",
+    "issuer": "PaloAlto networks",
+    "certId": "C545434",
+    "link": ""
+  },
+  {
+    "id": "cert-1792068678930",
+    "title": "Endpoint Security",
+    "issuer": "PaloAlto networks",
+    "certId": "C545389",
+    "link": ""
+  },
+  {
+    "id": "cert-1792068710941",
+    "title": "Cybersecurity Practitioner",
+    "issuer": "PaloAlto Networks Certified",
     "certId": "",
     "link": ""
   }
