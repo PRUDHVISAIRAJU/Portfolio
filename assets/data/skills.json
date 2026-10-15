@@ -1,16 +1,119 @@
 [
   {
-    "category": "Your expertise",
+    "category": "Cybersecurity & Networking",
     "items": [
-      "Your skill",
-      "Another skill"
+      "Cloud security",
+      "Kali Linux",
+      "Linux",
+      "Wireshark",
+      "Cryptography",
+      "Cybersecurity",
+      "Network Security",
+      "Vulnerability Management",
+      "VAPT",
+      "Ethical Hacking",
+      "Computer Networks"
     ]
   },
   {
-    "category": "Tools you use",
+    "category": "Programming & Development",
     "items": [
-      "Your favorite tool",
-      "Another tool"
+      "Python",
+      "C Programming",
+      "Java",
+      "Node.js",
+      "Web development",
+      "Frontend development",
+      "Backend development",
+      "Flutter",
+      "Data Structures"
+    ]
+  },
+  {
+    "category": "AI & Machine Learning",
+    "items": [
+      "ChatGPT",
+      "Gemini",
+      "Perplexity",
+      "Claude",
+      "Machine Learning",
+      "Artificial intelligence"
+    ]
+  },
+  {
+    "category": "Software Engineering & DevOps",
+    "items": [
+      "Software Development Life Cycle (SDLC)",
+      "DevOps",
+      "Agile Methodology",
+      "Scrum",
+      "Operating Systems",
+      "Computer Architecture"
+    ]
+  },
+  {
+    "category": "Data & Databases",
+    "items": [
+      "Database Management System (DBMS)",
+      "Data Visualization",
+      "Power BI",
+      "Data Analytics"
+    ]
+  },
+  {
+    "category": "Version Control & Design Tools",
+    "items": [
+      "Git",
+      "GitHub",
+      "Gitlab",
+      "Figma",
+      "AutoCAD",
+      "Notion"
+    ]
+  },
+  {
+    "category": "Core Engineering & Concepts",
+    "items": [
+      "Engineering Drawing",
+      "Mathematics",
+      "Computer skills",
+      "Digital Electronics",
+      "Internet of Things (IoT)"
+    ]
+  },
+  {
+    "category": "Productivity & Office Suites",
+    "items": [
+      "MS-Word",
+      "MS-Excel",
+      "Microsoft 365",
+      "MS-Office",
+      "MS-PowerPoint",
+      "Microsoft Project",
+      "Google Docs",
+      "Google Sheets",
+      "Google Forms"
+    ]
+  },
+  {
+    "category": "Soft Skills & Management",
+    "items": [
+      "Leadership",
+      "Team Management",
+      "Problem Solving",
+      "Project Management",
+      "Critical thinking",
+      "Effective Communication",
+      "Presentation skills"
+    ]
+  },
+  {
+    "category": "Languages",
+    "items": [
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+      "Telugu Proficiency (Spoken)",
+      "Hindi Proficiency (Spoken)"
     ]
   }
 ]
