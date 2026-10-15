@@ -1,11 +1,150 @@
 [
   {
     "id": "project-example",
-    "type": "project",
-    "title": "Your project title",
-    "subtitle": "Your role",
-    "description": "Describe the problem, your contribution, and the outcome. Add your own project links in the editor.",
-    "tags": "Your tools • Your skills",
+    "type": "internship",
+    "title": "Persevex  LLP",
+    "subtitle": "cybersecurity ",
+    "description": "• Developed Guardian Box, an end-to-end encrypted file sharing application.\n• Implemented secure file upload and sharing functionality using Node.js, Express.js, Multer, and AES encryption.\n• Applied secure coding practices and encryption concepts to protect user data.",
+    "tags": "advanced encryption system, cryptography, cybersecurity, web application security, node.js, express.js ",
     "links": []
+  },
+  {
+    "id": "exp-1792062889672",
+    "type": "internship",
+    "title": "Cognifyz Technologies",
+    "subtitle": "python developer ",
+    "description": "• Collaborated in a structured internship environment while following software development best practices.\n• Developed Python-based solutions focusing on problem-solving, automation, and code optimization.\n",
+    "tags": "automation,python programming, software development, problem-solving, scripting",
+    "links": []
+  },
+  {
+    "id": "exp-1792063284660",
+    "type": "internship",
+    "title": "Codec Technologies ",
+    "subtitle": "cybersecurity",
+    "description": "• Completed a Cyber Security Internship focused on strengthening practical cybersecurity knowledge and industry exposure.\n• Worked with security concepts, risk awareness, and cybersecurity best practices.\n• Expanded understanding of vulnerability assessment, threat analysis, and security operations.\n• Enhanced analytical, problem-solving, and security-focused thinking through practical learning activities and guided tasks.",
+    "tags": "cybersecurity, information security, vulnerability assessment , security operations, threat analysis, ",
+    "links": []
+  },
+  {
+    "id": "exp-1792063575656",
+    "type": "internship",
+    "title": "SkillFied Mentor pvt ltd ",
+    "subtitle": "cybersecurity ",
+    "description": "• Developed and implemented cybersecurity-focused projects to strengthen practical security skills.\n• Built a Basic Antivirus Simulation in Python featuring file scanning, quarantine management, and activity logging.\n• Developed a Packet Sniffer with ARP Spoof Detection using Scapy for network traffic monitoring and threat detection.\n• Gained hands-on experience in network security, packet analysis, threat detection, and Python-based security tooling.",
+    "tags": "cybersecurity, python programming, networksecurity, threat detection, scapy, ",
+    "links": []
+  },
+  {
+    "id": "exp-1792063693488",
+    "type": "project",
+    "title": "GuardianBox - End-to-End Encrypted File Sharing",
+    "subtitle": "persevex LLP",
+    "description": "GuardianBox is a secure file sharing system where files are encrypted before storage and can only be decrypted using a password. The server never has access to the original file content.",
+    "tags": "aes-encryption, encryption-decryption, file-sharing, node.js, secure-storage, web security ",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/GuardianBox-Secure-File-Sharing"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792063974784",
+    "type": "project",
+    "title": "Basic Packet Sniffer + ARP Spoofing Detector",
+    "subtitle": "SkillFied Mentor pvt ltd",
+    "description": "This project is a simple network security monitoring tool developed using Python and Scapy. It captures live network packets, analyzes ARP traffic, monitors IP-MAC address mappings, and detects possible ARP spoofing activities.",
+    "tags": "network security, packet sniffer, arp-detection, python, scapy ",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Packet-Sniffer-ARP-Detection"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792064148082",
+    "type": "project",
+    "title": "Basic Antivirus Simulation",
+    "subtitle": "SkillFied Mentors pvt ltd",
+    "description": "This project is a simple antivirus simulation developed using Python. It scans files in a folder, detects suspicious file extensions, quarantines unsafe files, and stores scan logs with timestamps.",
+    "tags": "endpoint-security, malware-detection, file scanner, python, security-tools",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Basic-Antivirus-Simulation#basic-antivirus-simulation"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792064341472",
+    "type": "project",
+    "title": "Password Strength Checker",
+    "subtitle": "Cognifyz Technologies",
+    "description": "A Python-based password strength checker that validates password security using multiple security rules.",
+    "tags": "input validation, password security, password-checker, python, password strength validation",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Password-Strength-Checker"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792064606724",
+    "type": "project",
+    "title": "Python Web Scraper",
+    "subtitle": "Cognifyz Technologies",
+    "description": "A Python-based web scraper that extracts quotes from a website using BeautifulSoup and stores them into a text file.",
+    "tags": "automation, beautifulsoup, data extraction, python-projects, web-scraping",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Python-Web-Scraper"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792064753988",
+    "type": "project",
+    "title": "Python Automation Script",
+    "subtitle": "Cognifyz Technologies",
+    "description": "A Python automation script that automatically renames files inside a folder using Python's built-in OS module.",
+    "tags": "automation, python scripting, task-automation, os module",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Python-Automation-Script"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792064905397",
+    "type": "project",
+    "title": "Honeypot Security System",
+    "subtitle": "Codec Technologies",
+    "description": "This project is a Python-based Honeypot system designed to detect unauthorized connection attempts, log attacker IP addresses, and record timestamps for security monitoring and analysis.\nIt simulates a real-world vulnerable service to understand how attackers interact with exposed systems.",
+    "tags": "python3, linux terminal, socket programming, netcat, capture-detection",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/codec-honeypot-project"
+      }
+    ]
+  },
+  {
+    "id": "exp-1792065081197",
+    "type": "project",
+    "title": "Vulnerability Assessment and Penetration Testing",
+    "subtitle": "Codec Technologies",
+    "description": "This project performs Vulnerability Assessment and Penetration Testing (VAPT) on the OWASP Juice Shop web application. The goal is to identify security weaknesses using industry-standard tools and document findings with proper risk analysis.",
+    "tags": "kali linux, docker, nmap, nickto, owasp juiceshop, reconaissance, vulnerability scanning",
+    "links": [
+      {
+        "label": "",
+        "url": "https://github.com/PRUDHVISAIRAJU/Codec_VAPT_Project"
+      }
+    ]
   }
 ]
