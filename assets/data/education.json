@@ -1,12 +1,32 @@
 [
   {
     "id": "education-example",
-    "school": "Your school or university",
-    "degree": "Your degree",
-    "fieldOfStudy": "Your field of study",
+    "school": "Krushi high school ",
+    "degree": "SSC",
+    "fieldOfStudy": "",
     "startYear": "",
-    "endYear": "",
+    "endYear": "2021",
+    "status": "completed",
+    "grade": "100%"
+  },
+  {
+    "id": "edu-1792057302405",
+    "school": "Narayana junior college ",
+    "degree": "Intermediate ",
+    "fieldOfStudy": "MPC",
+    "startYear": "2021",
+    "endYear": "2023",
+    "status": "completed",
+    "grade": "78.1%"
+  },
+  {
+    "id": "edu-1792057352422",
+    "school": "St. Mary's Integrated Campus",
+    "degree": "B.tech",
+    "fieldOfStudy": "Computer Science and Engineering",
+    "startYear": "2023",
+    "endYear": "2027",
     "status": "ongoing",
-    "grade": ""
+    "grade": "6.46"
   }
 ]
