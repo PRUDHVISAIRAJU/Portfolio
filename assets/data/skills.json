@@ -1,0 +1,16 @@
+[
+  {
+    "category": "Your expertise",
+    "items": [
+      "Your skill",
+      "Another skill"
+    ]
+  },
+  {
+    "category": "Tools you use",
+    "items": [
+      "Your favorite tool",
+      "Another tool"
+    ]
+  }
+]

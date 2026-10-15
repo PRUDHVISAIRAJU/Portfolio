@@ -1,0 +1,11 @@
+[
+  {
+    "id": "project-example",
+    "type": "project",
+    "title": "Your project title",
+    "subtitle": "Your role",
+    "description": "Describe the problem, your contribution, and the outcome. Add your own project links in the editor.",
+    "tags": "Your tools • Your skills",
+    "links": []
+  }
+]

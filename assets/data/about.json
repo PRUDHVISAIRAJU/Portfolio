@@ -1,0 +1,11 @@
+{
+  "paragraphs": [
+    "Write a short introduction about yourself, your background, and what motivates you.",
+    "Describe your interests, strengths, and the kind of work you would like to do."
+  ],
+  "quickFacts": {
+    "degree": "Your qualification",
+    "location": "Your city or region",
+    "interests": "Your interests"
+  }
+}
